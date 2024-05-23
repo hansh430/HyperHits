@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c96854e4d83264f9caa74097626d84, type: 3}
+  m_Name: Fish 10
+  m_EditorClassIdentifier: 
+  Price: 120
+  FishCount: 10
+  MinLength: -165
+  MaxLength: -185
+  colliderRadius: 0.2
+  FishSprite: {fileID: 21300000, guid: 6df8eb3b89a95f946b9b8d60e7353d37, type: 3}
